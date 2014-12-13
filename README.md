@@ -1,4 +1,4 @@
 e90_puppet
 ==========
 
-puppet configuration  for the final project
+puppet configuration  for the final project, start working
