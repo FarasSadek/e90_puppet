@@ -1,4 +1,5 @@
 e90_puppet
 ==========
 
-puppet configuration  for the final project, this is the develop branch
+Puppet configuration  for the final project.
+This is the develop branch
